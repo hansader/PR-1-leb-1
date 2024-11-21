@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+	int age;
+	char name[]="hansa",
+	school[]="vbcg";
+	clrscr();
+	age=20;
+	printf("\n enter your name:%s",name);
+	printf("\n enter your school name:%s",school);
+	printf("\n enter your age:%d",age);
+	getch();
+}
